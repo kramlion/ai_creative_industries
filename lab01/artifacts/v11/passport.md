@@ -42,3 +42,30 @@ EQ_2_4 = true
 * third_party_packages: не используются (стандартная библиотека)
 
 Скрипты (sha256): {"lab01_generator.py": "8f07d340a5a765a8e44f1fec407489cf00114ba54216aa7539c4e7116680e152", "lab01_experiment.py": "69257206dab50ef35de448b45764daad0d4f60dbc98febd8953c6faee28e06b5"}
+
+LR01/ 
+│
+├── src/
+│   ├── lab01_generator.py
+│   └── lab01_experiment.py
+│
+├── artifacts/
+│   └── v11/                    
+│       ├── passport.json
+│       ├── passport.md
+│       ├── results.json
+│       └── artifacts/          
+│           ├── base_seed101.png
+│           ├── perturbed_seed101.png
+│           ├── repro_run1_seed101.png
+│           ├── repro_run2_seed101.png
+│           ├── repro_run3_seed1101.png
+│           └── repro_run4_seed101.png
+│
+├── reports/                   
+│   ├── journal.md   
+│   └── passport.md        
+│
+├── requirements.txt           
+│
+└── Фроленко Марк Евгеньевич_ЛР1-вариант-11.docx
