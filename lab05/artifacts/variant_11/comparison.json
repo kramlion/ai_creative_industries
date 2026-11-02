@@ -1,0 +1,13 @@
+{
+  "variant": 11,
+  "seed": 1011,
+  "sha256_A_png": "3d6b41d9d72f63ccb9d1914fa5622f5bc7d363f3c6241aaab5a1e48333764646",
+  "sha256_B_jpeg": "5c86a77c22999328506d163a604e8698f9013538d4bbe34fb1e4404c73e62789",
+  "size_A_bytes": 442080,
+  "size_B_bytes": 99505,
+  "pixel_equal": false,
+  "max_abs_diff": 98,
+  "psnr_db": 28.078079667847543,
+  "tolerance_db": 40.0,
+  "verdict": "different"
+}
